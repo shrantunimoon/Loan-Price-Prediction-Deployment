@@ -1,0 +1,8 @@
+# This file tells HuggingFace what app to run
+
+title: Premium Loan Predictor
+emoji: 🏦
+sdk: streamlit
+sdk_version: 1.32.0
+app_file: app.py
+pinned: false
